@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="drighna.ogj.transport"/>
+      <class name="drighna.ogj.BehaviourRecords"/>
+      <class name="drighna.ogj.Fees"/>
+      <class name="drighna.ogj.transport1"/>
+      <class name="drighna.ogj.download"/>
+      <class name="drighna.ogj.Fees1"/>
+      <class name="drighna.ogj.report"/>
+      <class name="drighna.ogj.lessonplan"/>
+      <class name="drighna.ogj.Examination"/>
+      <class name="drighna.ogj.hostel"/>
+      <class name="drighna.ogj.attendanceexam"/>
+      <class name="drighna.ogj.HR"/>
+      <class name="drighna.ogj.OnlineCourse"/>
+      <class name="drighna.ogj.acad"/>
+      <class name="drighna.ogj.onlineexam"/>
+      <class name="drighna.ogj.inventory"/>
+      <class name="drighna.ogj.ExpenseManagement"/>
+      <class name="drighna.ogj.frontcms"/>
+      <class name="drighna.ogj.Income"/>
+      <class name="drighna.ogj.homework"/>
+      <class name="drighna.ogj.gmeet"/>
+      <class name="drighna.ogj.ZoomLiveTest"/>
+      <class name="drighna.ogj.communication"/>
+      <class name="drighna.ogj.Academics"/>
+      <class name="drighna.ogj.library"/>
+      <class name="drighna.ogj.Attendance"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

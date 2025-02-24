@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Default suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="drighna.ogj.attendanceexam">
+        <methods>
+          <include name="setupOnce"/>
+          <include name="teardown"/>
+          <include name="clickAngleLeftButton1"/>
+          <include name="clickAngleLeftButton11"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- drighna.ogj.attendanceexam -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
